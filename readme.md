@@ -1,4 +1,4 @@
 
-# Hello World! Git i beautiful!
+# Hello World! Git i beautiful! This repository was cloned!
 
 Hello 
