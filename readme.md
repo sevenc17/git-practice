@@ -1,4 +1,4 @@
 
-# Hello World! Git is beautiful!
+# Hello World! Git.
 
 Hello 
